@@ -1,5 +1,5 @@
 {
-  "name": "@Raynos/testcafe-browser-provider-electron",
+  "name": "testcafe-browser-provider-electron-raynos",
   "version": "0.0.14",
   "description": "TestCafe browser provider plugin for testing applications built with Electron.",
   "repository": "https://github.com/DevExpress/testcafe-browser-provider-electron",
